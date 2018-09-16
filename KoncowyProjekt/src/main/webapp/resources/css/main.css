@@ -1,0 +1,147 @@
+@charset "UTF-8";
+
+body, html{
+     height: 100%;
+ 	background-repeat: no-repeat;
+ 	background-color: #d3d3d3;
+ 	font-family: 'Oxygen', sans-serif;
+
+ 	
+}
+
+
+.main{
+ 	margin-top: 70px;
+}
+
+h1.title { 
+	font-size: 60px;
+	font-family: 'Passion One', serif;
+	font-weight: 400;
+    color: black;
+	
+}
+
+
+hr{
+	width: 10%;
+	color: #fff;
+}
+
+.form-group{
+	margin-bottom: 15px;
+}
+
+label{
+	margin-bottom: 15px;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 11px;
+    padding-top: 3px;
+}
+
+.main-login{
+ 	background-color: #fff;
+    /* shadows and rounded borders */
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+
+}
+
+.main-center{
+ 	margin-top: 30px;
+ 	margin: 0 auto;
+ 	max-width: 500px;
+    padding: 40px 40px;
+    width: 400px;
+
+}
+
+.login-button{
+	margin-top: 5px;
+}
+
+.login-register{
+	font-size: 11px;
+	text-align: center;
+}
+
+
+.error{
+		color: red;
+}
+
+
+
+
+
+.table>thead>tr>th{border-bottom: none;}
+.exotic-table{
+    color:#fff;
+    background: #191919;
+    text-align: center;
+    border: none;
+}
+.exotic-table thead tr{
+    border: 2px #333 outset;
+    text-align: center;
+}
+.exotic-table thead>tr>th{
+    text-align: center;
+}
+.exotic-table tbody{
+    border:2px outset #333;
+    border-top:none
+}
+
+.exotic-table tbody tr{
+    background: #222;
+}
+.exotic-table tbody tr:hover{
+    box-shadow:0 0 20px #000;
+    background:#1a1a1a;
+}
+.exotic-table tbody tr td{
+    border-bottom:2px outset #333;
+}
+.table-responsive{
+    border:none;
+}
+.popover {
+     color:#000
+  }
+a.td-price{
+    color:#fff;
+    border-bottom:1px dotted #ccc
+}
+
+
+.red{
+    color:red;
+    }
+.form-area
+{
+    background-color: #FAFAFA;
+	padding: 10px 40px 60px;
+	margin: 70px 70px 70px;
+	border: 1px solid GREY;
+	}
+body{
+    background: url(http://mymaplist.com/img/parallax/back.png);
+	background-color: #444;
+    background: url(http://mymaplist.com/img/parallax/pinlayer2.png),url(http://mymaplist.com/img/parallax/pinlayer1.png),url(http://mymaplist.com/img/parallax/back.png);    
+}
+
+.vertical-offset-100{
+    padding-top:100px;
+}
+p {
+    white-space: nowrap;
+    heigth:100px;
+}
