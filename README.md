@@ -1,6 +1,17 @@
 # CarSpot
 
   CarSpot is Web app where u can share the best cars with your friends. Just add car description, place and link to the photo. After this simple operation all users can see your post.
+  
+  Technologies used:
+  ```
+  - Spring
+  - Spring Security
+  - JPA
+  - MySQL
+  - HTML
+  - CSS
+  - jQuery
+  ```
 
 
 ## Photos
